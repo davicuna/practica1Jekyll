@@ -2,19 +2,11 @@
 #
 # Esta es la pagina principal de la practica 1.
 # 
-title: PRACTICA1
-email: davicuna@unrioja.es
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/practica1Jekyll" 
-url: ""https://davicuna.github.io"" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  davicuna
-
-# Build settings
+title: Mi Practica Jekyll
+baseurl: "/practica1Jekyll" # IMPORTANTE: Incluye la barra y el nombre del repo
+url: "https://davicuna.github.io"
 theme: minima
+
 plugins:
   - jekyll-feed
 
