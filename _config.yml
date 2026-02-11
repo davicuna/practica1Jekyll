@@ -5,11 +5,11 @@
 title: Mi Practica Jekyll
 baseurl: "/practica1Jekyll" # IMPORTANTE: Incluye la barra y el nombre del repo
 url: "https://davicuna.github.io"
+repository: davicuna/practica1Jekyll
 theme: minima
 
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
